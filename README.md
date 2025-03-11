@@ -62,6 +62,14 @@ Update this README file directly with the corresponding command for each questio
 
 ---
 
+JUSTIN'S ANSWERS:
+
+1. cp ./proj1/*.py ./proj2
+2. cp ./proj1/*.py ..
+3. cp ./proj1/p1.txt ./proj2/p1_new.txt
+4. mkdir proj3; cp ./proj1/* ./proj3
+5. nohup python3 p1.py
+
 ## Submission Guidelines
 
 For Exercises 1 and 2:
